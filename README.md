@@ -8,6 +8,7 @@
 ### Dart 2.12
 - nullSafety 가 stable 채널로 올라갔습니다
 - Future 및 Class 예제를 통해 학습해주세요 👉 [이동](https://github.com/doyle-flutter/basicDart/blob/main/dart212nullsafetyFutureClass.dart)
+<img width="30%" src="https://user-images.githubusercontent.com/56661529/111512036-a9486100-8792-11eb-9d4a-4488d6669f59.png" />
 
 ### ETC
 - 중첩 함수 및 클래스의 실행 순서(Flutter Widget 구성과 유사합니다) 👉 [예제](https://github.com/doyle-flutter/basicDart/blob/main/nesting_function_N_class.dart)
