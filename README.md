@@ -7,4 +7,4 @@
 
 ### Dart 2.12
 - nullSafety 가 stable 채널로 올라갔습니다
-- Future 및 Class 예제[*이동](https://github.com/doyle-flutter/basicDart/blob/main/dart212nullsafetyFutureClass.dart)를 통해 학습해주세요
+- Future 및 Class 예제[(이동)](https://github.com/doyle-flutter/basicDart/blob/main/dart212nullsafetyFutureClass.dart)를 통해 학습해주세요
