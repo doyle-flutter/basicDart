@@ -1,16 +1,14 @@
 void main(){
-  // 중첩 함수 및 클래스의 실행 순서(예제)
+  // 중첩 관계에서 실행 순서(예제)
   
   print("// Function --- ");
   void fir(void f){
     print("1-1. Fir");
-    f;
     print("1-2. Fir");
     return;
   }
   void sec(void f2){
     print("2-1. Sec");
-    f2;
     print("2-2. Sec");
     return;
   }
